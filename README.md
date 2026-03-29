@@ -23,4 +23,4 @@ windows app (bat and exe and py)
    - `DEL`: 刪除任務。
 
 ## 執行方式
-直接執行目錄下的 `run.bat` 即可。
+直接執行目錄下的 `NEON_TODO.exe` 即可。
